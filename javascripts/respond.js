@@ -1,5 +1,3 @@
-var name = prompt ("Enter your first name:");
-alert ("Hello, " + name);
 if(typeof Object.create!=="function"){
 Object.create=function(o){
 function F(){
